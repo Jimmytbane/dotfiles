@@ -1,7 +1,7 @@
 # dotfiles
 My dotfiles, and guides on how to apply my favourite tweaks to Unix or GNU
 
-`[root@system]:(~) >> neofetch -L
+[root@system]:(~) >> neofetch -L
                 __.;=====;.__ 
             _.=+==++=++=+=+===;. 
              -=+++=+===+=+=+++++=_ 
@@ -19,4 +19,4 @@ My dotfiles, and guides on how to apply my favourite tweaks to Unix or GNU
         -Invnvvnsi..___..=sv=.     ` 
           +Invnvnvnnnnnnnnvvnn;. 
             ~|Invnvnvvnvvvnnv}+` 
-               -~|{*l}*|~ `
+               -~|{*l}*|~ 
