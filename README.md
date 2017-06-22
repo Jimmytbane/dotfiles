@@ -1,4 +1,6 @@
 # jmfgdev/dotfiles
 
-```[root@system]:(~)
-$```
+```
+[root@system]:(~)
+$
+```
