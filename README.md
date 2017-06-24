@@ -1,6 +1,1 @@
 # jmfgdev/dotfiles
-
-```
-[root@system]:(~)
-$
-```
