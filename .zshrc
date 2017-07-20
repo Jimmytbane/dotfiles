@@ -1,5 +1,8 @@
 # JimmyBot's zshrc
 
+# colored ls
+alias ls='ls --color=auto'
+
 # make sure vim is used instead of nano or whatever
 export VISUAL=vim
 export EDITOR="$VISUAL"
