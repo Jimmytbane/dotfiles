@@ -1,5 +1,8 @@
 # JimmyBot's bashrc
 
+# only load Liquid Prompt in interactive shells, not from a script or from scp
+[[ $- = *i* ]] && source /usr/share/liquidprompt/liquidprompt
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -113,3 +116,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
