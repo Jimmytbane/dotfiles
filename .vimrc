@@ -1,7 +1,7 @@
 " JimmyBot's vimrc
 
 
-#set nu
+" set nu
 filetype plugin on
 syntax on
 
