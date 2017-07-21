@@ -1,5 +1,8 @@
 " JimmyBot's vimrc
+
+
 set nu
+filetype plugin on
 syntax on
 
 set statusline+=%#warningmsg#
