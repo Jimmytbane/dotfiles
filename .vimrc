@@ -1,4 +1,4 @@
-" JimmyBot's init.vim
+" JimmyBot's .vimrc
 
 set nocompatible
 
@@ -30,5 +30,8 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
-
-
+" from http://www.alexeyshmalko.com/2014/using-vim-as-c-cpp-ide/
+"augroup project
+"    autocmd!
+"    autocmd BufRead,BufNewFile *.h,*.c set filetype=c.doxygen
+"augroup END
