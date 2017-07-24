@@ -2,7 +2,7 @@
 
 If you're on Ubuntu/Trisquel or Debian, install a similar setup to mine by running the following, don't worry, I'll make a script eventually.
 
-`sudo apt install vim vim-syntastic vim-pathogen; mkdir ~/.vim; mkdir ~/.vim/bundle; cd ~/.vim/bundle; git clone "https://github.com/tpope/vim-endwise`
+`sudo apt -f install vim vim-syntastic vim-pathogen; mkdir ~/.vim; mkdir ~/.vim/bundle; cd ~/.vim/bundle; git clone "https://github.com/tpope/vim-endwise`
 
 
 
