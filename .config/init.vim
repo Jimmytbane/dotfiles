@@ -1,4 +1,4 @@
-" JimmyBot's .vimrc
+" JimmyBot's init.vim
 
 set nocompatible
 
