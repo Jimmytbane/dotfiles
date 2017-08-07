@@ -1,13 +1,7 @@
 [credential]
-[credential]
 		helper = store
 [user]
 		name = JimmyBot
 			email = jimmybot@teknik.io
-	signingkey = 7E87610893C109F2
 [push]
 	default = simple
-[gpg]
-	program = /usr/bin/gpg2
-[commit]
-	gpgsign = true
