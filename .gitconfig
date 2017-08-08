@@ -1,7 +1,10 @@
 [credential]
-		helper = store
+	helper = store
 [user]
-		name = JimmyBot
-			email = jimmybot@teknik.io
+	name = JimmyBot
+	email = jimmybot@teknik.io
+	signingkey = 4DBB6E8E5D77EC17
 [push]
 	default = simple
+[commit]
+	gpgsign = true
