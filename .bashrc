@@ -2,6 +2,9 @@
 
 source ~/.bash_envs
 
+alias vi="vim"
+alias vim="nvim"
+
 # make bash save after every command to not lose history
 export PROMPT_COMMAND='history -a'
 
