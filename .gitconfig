@@ -1,5 +1,3 @@
-[credential]
-	helper = store
 [user]
 	name = jmfgdev
 	email = jmfgdev@users.noreply.github.com
